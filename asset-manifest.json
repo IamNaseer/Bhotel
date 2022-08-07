@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Bhotel/static/css/main.bbeab8d9.chunk.css",
+    "main.css": "/Bhotel/static/css/main.fd726d1c.chunk.css",
     "main.js": "/Bhotel/static/js/main.9eccfa86.chunk.js",
     "main.js.map": "/Bhotel/static/js/main.9eccfa86.chunk.js.map",
     "runtime-main.js": "/Bhotel/static/js/runtime-main.1495ae09.js",
@@ -8,7 +8,7 @@
     "static/js/2.a766e07b.chunk.js": "/Bhotel/static/js/2.a766e07b.chunk.js",
     "static/js/2.a766e07b.chunk.js.map": "/Bhotel/static/js/2.a766e07b.chunk.js.map",
     "index.html": "/Bhotel/index.html",
-    "static/css/main.bbeab8d9.chunk.css.map": "/Bhotel/static/css/main.bbeab8d9.chunk.css.map",
+    "static/css/main.fd726d1c.chunk.css.map": "/Bhotel/static/css/main.fd726d1c.chunk.css.map",
     "static/js/2.a766e07b.chunk.js.LICENSE.txt": "/Bhotel/static/js/2.a766e07b.chunk.js.LICENSE.txt",
     "static/media/G.b571eb82.png": "/Bhotel/static/media/G.b571eb82.png",
     "static/media/award01.361a4bc4.png": "/Bhotel/static/media/award01.361a4bc4.png",
@@ -36,7 +36,7 @@
   "entrypoints": [
     "static/js/runtime-main.1495ae09.js",
     "static/js/2.a766e07b.chunk.js",
-    "static/css/main.bbeab8d9.chunk.css",
+    "static/css/main.fd726d1c.chunk.css",
     "static/js/main.9eccfa86.chunk.js"
   ]
 }
